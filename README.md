@@ -15,8 +15,6 @@
 
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.9)
-
 [![codewars](https://www.codewars.com/users/Alex5200/badges/large)](https://www.codewars.com/users/Alex5200)
 
 ![](https://komarev.com/ghpvc/?username=Alex5200&color=green&style=for-the-badge)
