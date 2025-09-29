@@ -23,6 +23,5 @@
 
 **Client:** React, Redux, TailwindCSS
 
-**Server:** Node, Express
+**Server:** Node, Express, NestJS
 
-**Server:** Python, django, Click
